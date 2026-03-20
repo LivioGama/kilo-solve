@@ -1,0 +1,20 @@
+services:
+  kilohub:
+    build: .
+    container_name: kilohub
+    restart: unless-stopped
+    volumes:
+      - /data/kilohub-state:/app/.kilohub
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.kilohub.rule=Host(`kilo.devliv.io`)"
+      - "traefik.http.routers.kilohub.entrypoints=https"
+      - "traefik.http.routers.kilohub.tls=true"
+      - "traefik.http.routers.kilohub.tls.certresolver=letsencrypt-http"
+      - "traefik.http.services.kilohub.loadbalancer.server.port=3333"
+    networks:
+      - coolify
+
+networks:
+  coolify:
+    external: true

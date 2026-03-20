@@ -1,0 +1,5 @@
+repo/
+node_modules/
+.env
+.kilohub/kilo-run.*
+.kilohub/current-prompt.md

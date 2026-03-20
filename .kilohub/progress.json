@@ -1,0 +1,422 @@
+{
+  "attempts": [
+    {
+      "issueNumber": 6229,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6229",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T12:51:10.935Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6679,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6679",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T12:52:10.276Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6672,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6672",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T12:53:13.860Z",
+      "filesChanged": 3
+    },
+    {
+      "issueNumber": 6662,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6662",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T12:53:44.290Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6627,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6627",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T12:54:38.829Z",
+      "filesChanged": 3
+    },
+    {
+      "issueNumber": 6596,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6596",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T12:55:34.809Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6678,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6678",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T12:59:51.529Z"
+    },
+    {
+      "issueNumber": 6628,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6628",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:00:36.209Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6618,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6618",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:00:59.297Z"
+    },
+    {
+      "issueNumber": 6617,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6617",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:01:10.347Z"
+    },
+    {
+      "issueNumber": 6616,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6616",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:01:24.617Z"
+    },
+    {
+      "issueNumber": 6594,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6594",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:01:33.284Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6590,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6590",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:01:52.627Z"
+    },
+    {
+      "issueNumber": 6587,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6587",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:02:30.756Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6585,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6585",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:02:52.292Z"
+    },
+    {
+      "issueNumber": 6584,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6584",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:03:10.640Z",
+      "filesChanged": 2
+    },
+    {
+      "issueNumber": 6582,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6582",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:03:48.026Z"
+    },
+    {
+      "issueNumber": 6581,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6581",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:04:31.160Z"
+    },
+    {
+      "issueNumber": 6579,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6579",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:05:11.741Z"
+    },
+    {
+      "issueNumber": 6574,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6574",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:05:41.253Z"
+    },
+    {
+      "issueNumber": 6569,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6569",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:06:17.012Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6568,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6568",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:06:51.274Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6558,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6558",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:07:17.873Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6555,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6555",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:07:41.826Z"
+    },
+    {
+      "issueNumber": 6552,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6552",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:08:11.411Z"
+    },
+    {
+      "issueNumber": 6541,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6541",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:08:22.082Z"
+    },
+    {
+      "issueNumber": 6535,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6535",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:08:38.687Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6534,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6534",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:08:59.326Z"
+    },
+    {
+      "issueNumber": 6528,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6528",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:09:39.799Z"
+    },
+    {
+      "issueNumber": 6525,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6525",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:09:51.042Z",
+      "filesChanged": 4
+    },
+    {
+      "issueNumber": 6522,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6522",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:10:08.502Z",
+      "filesChanged": 3
+    },
+    {
+      "issueNumber": 6508,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6508",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:10:26.601Z"
+    },
+    {
+      "issueNumber": 6506,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6506",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:10:59.873Z"
+    },
+    {
+      "issueNumber": 6501,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6501",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:11:41.055Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6490,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6490",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:12:20.671Z"
+    },
+    {
+      "issueNumber": 6485,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6485",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:12:32.448Z"
+    },
+    {
+      "issueNumber": 6483,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6483",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:13:12.375Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6482,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6482",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:13:52.363Z"
+    },
+    {
+      "issueNumber": 6481,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6481",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:14:02.389Z"
+    },
+    {
+      "issueNumber": 6476,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6476",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:14:14.195Z"
+    },
+    {
+      "issueNumber": 6475,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6475",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:14:24.252Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6471,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6471",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:14:47.763Z"
+    },
+    {
+      "issueNumber": 6468,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6468",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:14:58.667Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6460,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6460",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:15:24.554Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6446,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6446",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:15:40.941Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6442,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6442",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:16:15.084Z"
+    },
+    {
+      "issueNumber": 6439,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6439",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:16:56.647Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6423,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6423",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:17:24.870Z"
+    },
+    {
+      "issueNumber": 6421,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6421",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:17:54.257Z"
+    },
+    {
+      "issueNumber": 6418,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6418",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:18:02.728Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6409,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6409",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:18:18.865Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6399,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6399",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:19:01.099Z"
+    },
+    {
+      "issueNumber": 6396,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6396",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:19:42.038Z"
+    },
+    {
+      "issueNumber": 6393,
+      "status": "success",
+      "branch": "kilohub/fix-issue-6393",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:20:30.871Z",
+      "filesChanged": 1
+    },
+    {
+      "issueNumber": 6381,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6381",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:20:53.257Z"
+    },
+    {
+      "issueNumber": 6379,
+      "status": "no-changes",
+      "branch": "kilohub/fix-issue-6379",
+      "model": "kilo/corethink:free",
+      "timestamp": "2026-03-07T13:21:44.316Z"
+    }
+  ]
+}

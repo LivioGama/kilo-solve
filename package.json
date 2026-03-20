@@ -1,0 +1,11 @@
+{
+  "name": "kilohub",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "kilohub": "./src/kilohub.ts"
+  },
+  "scripts": {
+    "kilohub": "bun run src/kilohub.ts"
+  }
+}
